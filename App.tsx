@@ -1,7 +1,6 @@
 import { StatusBar } from 'react-native';
 import { Routes } from '@routes/index';
 import { useFonts, Roboto_400Regular, Roboto_700Bold } from '@expo-google-fonts/roboto';
-import { Players } from '@screens/Players';
 import { Loading } from '@components/Loading';
 import { ThemeProvider } from 'styled-components';
 
